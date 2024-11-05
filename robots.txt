@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://edeyoiyi.github.io/CUK/sitemap_index.txt
+Sitemap: https://edeyoiyi.github.io/IBr/sitemap_index.txt
+Sitemap: https://edeyoiyi.github.io/fUT/sitemap_index.txt
+Sitemap: https://edeyoiyi.github.io/tiV/sitemap_index.txt
